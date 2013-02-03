@@ -1,4 +1,5 @@
-CROSS_COMPILE=/home/klin1344/cm10.1/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3INITRAMFS_DIR=ramdisk.gz
+CROSS_COMPILE=/home/klin1344/cm10.1/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-
+INITRAMFS_DIR=ramdisk.gz
 KERNEL_NAME=FusionUlt-AOSP-MR1
 KERNEL_VNUMBER=4.1_test
 
